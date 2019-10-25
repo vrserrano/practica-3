@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercado tipo= "Mercadona">
+    <direccion> "Calle Alcalde Angel Arroyo, 8</direccion>
+    <poblacion>Getafe</poblacion>
+    <cp>28904</cp>
+    <geolocalizacion>
+        <latitud>40° 18′ 57"</latitud>
+        <longitud>3° 44′ 8"</longitud>
+    </geolocalizacion>
+        
+        <seccion>
+                
+                <nombreSeccion>Perfumeria e higiene</nombreSeccion>
+                
+                        <producto>
+                            <nombre>crema reparadora</nombre>
+                            <descripcion>crema suavizante pelo</descripcion>
+                            <marca>Stylius</marca>
+                            <perecedero>false</perecedero>
+                            <precio>1.30</precio>
+                            <fechaCaducidad>2022-07</fechaCaducidad>
+                            <oferta>false</oferta>
+                            <descripcionOferta>null</descripcionOferta>
+                            <fechaInicioOferta>null</fechaInicioOferta>
+                            <fechaFinOferta>null</fechaFinOferta>
+                            <precioOferta>null</precioOferta>
+                            <comprado>1</comprado>
+                            <unidadDeMedida>ml</unidadDeMedida>
+                            <cantidadAComprar>1</cantidadAComprar>
+                        </producto>
+
+                        <producto>
+                                <nombre>gel baño</nombre>
+                                <descripcion>dermoprotector piel normal</descripcion>
+                                <marca>Sanex</marca>
+                                <perecedero>false</perecedero>
+                                <precio>3.49</precio>
+                                <fechaCaducidad>2021-06</fechaCaducidad>
+                                <oferta>false</oferta>
+                                <descripcionOferta>null</descripcionOferta>
+                                <fechaInicioOferta>null</fechaInicioOferta>
+                                <fechaFinOferta>null</fechaFinOferta>
+                                <precioOferta>null</precioOferta>
+                                <comprado>1</comprado>
+                                <unidadDeMedida>ml</unidadDeMedida>
+                                <cantidadAComprar>1</cantidadAComprar>
+                        </producto>
+                        <producto>
+                                <nombre>dentífrico</producto>
+                                <descripcion>pasta acción total</producto>
+                                <marca>colgate</producto>
+                                <perecedero>false</producto>
+                                <precio>2.40</precio>
+                                <fechaCaducidad>2020-03</fechaCaducidad>
+                                <oferta>true</oferta>
+                                <descripcionOferta>baja de precio</descripcionOferta>
+                                <fechaInicioOferta>2019-10-20</fechaInicioOferta>
+                                <fechaFinOferta>2019-11-01</fechaFinOferta>
+                                <precioOferta>3.60</precioOferta>
+                                <comprado>2</comprado>
+                                <unidadDeMedida>ml</unidadDeMedida>
+                                <cantidadAComprar>1</cantidadAComprar>
+                        </producto>
+                        <producto>
+                                <nombre>desodorante</nombre>
+                                <descripcion>hidratante aloe 48h</descripcion>
+                                <marca>deliplus</marca>
+                                <perecedero>false</perecedero>
+                                <precio>1.50</precio>
+                                <fechaCaducidad>null</fechaCaducidad>
+                                <oferta>false</oferta>
+                                <descripcionOferta>null</descripcionOferta>
+                                <fechaInicioOferta>null</fechaInicioOferta>
+                                <fechaFinOferta>null</fechaFinOferta>
+                                <precioOferta>null</precioOferta>
+                                <comprado>1</comprado>
+                                <unidadDeMedida>ml</unidadDeMedida>
+                                <cantidadAComprar>1</cantidadAComprar>
+                        </producto>
+                         <producto>
+                                <nombre>champú cabello</nombre>
+                                <descripcion>anticaspa graso citrus fresh</descripcion>
+                                <marca>h&amp;s</marca>
+                                <perecedero>false</perecedero>
+                                <precio>2.99</precio>
+                                <fechaCaducidad>2022-03</fechaCaducidad>
+                                <oferta>false</oferta>
+                                <descripcionOferta>null</descripcionOferta>
+                                <fechaInicioOferta>null</fechaInicioOferta>
+                                <fechaFinOferta>null</fechaFinOferta>
+                                <precioOferta>null</precioOferta>
+                                <comprado>1</comprado>
+                                <unidadDeMedida>ml</unidadDeMedida>
+                                <cantidadAComprar>1</cantidadAComprar>
+                         </producto>
+                            
+        </seccion>
+        <seccion>
+                   
+                <nombreSeccion>Lácteos y postres</nombreSeccion>
+                        
+                         <producto>
+                            <nombre>yogur desnatado</nombre>
+                            <descripcion>linea sabor a limon</descripcion>
+                            <marca>hacendado</marca>
+                            <perecedero>true</perecedero>
+                            <precio>0.84</precio>
+                            <fechaCaducidad>2019-10-29</fechaCaducidad>
+                            <oferta>true</oferta>
+                            <descripcionOferta>bajada de precio caducidad proxima</descripcionOferta>
+                            <fechaInicioOferta>2019-10-27</fechaInicioOferta>
+                            <fechaFinOferta>2019-10-28</fechaFinOferta>
+                            <precioOferta>0.70</precioOferta>
+                            <comprado>1</comprado>
+                            <unidadDeMedida>g</unidadDeMedida>
+                            <cantidadAComprar>1</cantidadAComprar>
+                        </producto>
+
+                        <producto>
+                                <nombre>queso fresco</nombre>
+                                <descripcion>desnatado batido</descripcion>
+                                <marca>hacendado</marca>
+                                <perecedero>true</perecedero>
+                                <precio>2.18</precio>
+                                <fechaCaducidad>2019-11-02</fechaCaducidad>
+                                <oferta>false</oferta>
+                                <descripcionOferta>null</descripcionOferta>
+                                <fechaInicioOferta>null</fechaInicioOferta>
+                                <fechaFinOferta>null</fechaFinOferta>
+                                <precioOferta>null</precioOferta>
+                                <comprado>2</comprado>
+                                <unidadDeMedida>g</unidadDeMedida>
+                                <cantidadAComprar>1</cantidadAComprar>
+                        </producto>
+                        <producto>
+                                <nombre>margarina</nombre>
+                                <descripcion>ligera</descripcion>
+                                <marca>hacendado</marca>
+                                <perecedero>true</perecedero>
+                                <precio>0.85</precio>
+                                <fechaCaducidad>2020-02-21</fechaCaducidad>
+                                <oferta>false</oferta>
+                                <descripcionOferta>null</descripcionOferta>
+                                <fechaInicioOferta>null</fechaInicioOferta>
+                                <fechaFinOferta>null</fechaFinOferta>
+                                <precioOferta>null</precioOferta>
+                                <comprado>1</comprado>
+                                <unidadDeMedida>g</unidadDeMedida>
+                                <cantidadAComprar>1</cantidadAComprar>
+                        </producto>
+                        <producto>
+                                <nombre>leche</nombre>
+                                <descripcion>fresca</descripcion>
+                                <marca>aturiana</marca>
+                                <perecedero>true</perecedero>
+                                <precio>1.30</precio>
+                                <fechaCaducidad>2019-10-28</fechaCaducidad>
+                                <oferta>bajada de precio caducidad proxima</oferta>
+                                <descripcionOferta>true</descripcionOferta>
+                                <fechaInicioOferta>2019/10/26</fechaInicioOferta>
+                                <fechaFinOferta>2019/10/27</fechaFinOferta>
+                                <precioOferta>1.00</precioOferta>
+                                <comprado>2</comprado>
+                                <unidadDeMedida>L</unidadDeMedida>
+                                <cantidadAComprar>0</cantidadAComprar>
+                        </producto>
+                         <producto>
+                                <nombre>Nata</nombre>
+                                <descripcion>ligera para cocinar</descripcion>
+                                <marca>hacendado</marca>
+                                <perecedero>true</perecedero>
+                                <precio>0.80</precio>
+                                <fechaCaducidad>2019-01-26</fechaCaducidad>
+                                <oferta>false</oferta>
+                                <descripcionOferta>null</descripcionOferta>
+                                <fechaInicioOferta>null</fechaInicioOferta>
+                                <fechaFinOferta>null</fechaFinOferta>
+                                <precioOferta>null</precioOferta>
+                                <comprado>1</comprado>
+                                <unidadDeMedida>ml</unidadDeMedida>
+                                <cantidadAComprar>0</cantidadAComprar>
+                         </producto>
+                            
+        </seccion>
+
+        <seccion>
+                
+                <nombreSeccion>Desayunos y meriendas</nombreSeccion>
+                
+                        <producto>
+                            <nombre>L'Or</nombre>
+                            <descripcion>expreso</descripcion>
+                            <marca>marcilla</marca>
+                            <perecedero>false</perecedero>
+                            <precio>3.20</precio>
+                            <fechaCaducidad>2022-01</fechaCaducidad>
+                            <oferta>false</oferta>
+                            <descripcionOferta>null</descripcionOferta>
+                            <fechaInicioOferta>null</fechaInicioOferta>
+                            <fechaFinOferta>null</fechaFinOferta>
+                            <precioOferta>null</precioOferta>
+                            <comprado>1</comprado>
+                            <unidadDeMedida>capsulas</unidadDeMedida>
+                            <cantidadAComprar>1</cantidadAComprar>
+                        </producto>
+
+                        <producto>
+                                <nombre>Cola Cao</nombre>
+                                <descripcion>Turbo</descripcion>
+                                <marca>cola cao</marca>
+                                <perecedero>false</perecedero>
+                                <precio>3.75</precio>
+                                <fechaCaducidad>2023-10</fechaCaducidad>
+                                <oferta>false</oferta>
+                                <descripcionOferta>null</descripcionOferta>
+                                <fechaInicioOferta>null</fechaInicioOferta>
+                                <fechaFinOferta>null</fechaFinOferta>
+                                <precioOferta>null</precioOferta>
+                                <comprado>1</comprado>
+                                <unidadDeMedida>g</unidadDeMedida>
+                                <cantidadAComprar>1</cantidadAComprar>
+                        </producto>
+                        <producto>
+                                <nombre>Galletas</producto>
+                                <descripcion>digestive</producto>
+                                <marca>fontaneda</producto>
+                                <perecedero>true</producto>
+                                <precio>2.70</precio>
+                                <fechaCaducidad>2020-01</fechaCaducidad>
+                                <oferta>null</oferta>
+                                <descripcionOferta>null</descripcionOferta>
+                                <fechaInicioOferta>null</fechaInicioOferta>
+                                <fechaFinOferta>null</fechaFinOferta>
+                                <precioOferta>null</precioOferta>
+                                <comprado>1</comprado>
+                                <unidadDeMedida>g</unidadDeMedida>
+                                <cantidadAComprar>1</cantidadAComprar>
+                        </producto>
+                        <producto>
+                                <nombre>Kellogg's special</nombre>
+                                <descripcion>integral con chocolate</descripcion>
+                                <marca>kellogg's</marca>
+                                <perecedero>true</perecedero>
+                                <precio>2.99</precio>
+                                <fechaCaducidad>2020-06-03</fechaCaducidad>
+                                <oferta>false</oferta>
+                                <descripcionOferta>null</descripcionOferta>
+                                <fechaInicioOferta>null</fechaInicioOferta>
+                                <fechaFinOferta>null</fechaFinOferta>
+                                <precioOferta>null</precioOferta>
+                                <comprado>1</comprado>
+                                <unidadDeMedida>g</unidadDeMedida>
+                                <cantidadAComprar>1</cantidadAComprar>
+                        </producto>
+                         <producto>
+                                <nombre>Pastas</nombre>
+                                <descripcion>avena integral</descripcion>
+                                <marca>hacendado</marca>
+                                <perecedero>true</perecedero>
+                                <precio>3.50</precio>
+                                <fechaCaducidad>2019-12</fechaCaducidad>
+                                <oferta>false</oferta>
+                                <descripcionOferta>null</descripcionOferta>
+                                <fechaInicioOferta>null</fechaInicioOferta>
+                                <fechaFinOferta>null</fechaFinOferta>
+                                <precioOferta>null</precioOferta>
+                                <comprado>0</comprado>
+                                <unidadDeMedida>g</unidadDeMedida>
+                                <cantidadAComprar>1</cantidadAComprar>
+                         </producto>
+        </seccion>                   
+</supermercado>
