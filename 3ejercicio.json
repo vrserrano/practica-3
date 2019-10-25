@@ -100,22 +100,22 @@
                         "productos": [
                             {
                                 "nombre": "yogur desnatado",
-                                "descripcion": "linea sabor a limon",
+                                "descripcion": "linea sabor a limon 6 ud",
                                 "marca": "hacendado",
                                 "perecedero": true,
                                 "precio": 0.84,
                                 "fechaCaducidad": "11/11/2019",
-                                "oferta":true,
+                                "oferta": true,
                                 "descripcionOferta": "bajada de precio caducidad proxima",
-                                "fechaInicioOferta":"27/10/2019",
-                                "fechaFinOferta":"28/10/2019",
+                                "fechaInicioOferta": "27/10/2019",
+                                "fechaFinOferta": "28/10/2019",
                                 "precioOferta": 0.70,
                                 "comprado": 1,
                                 "unidadDeMedida": "g",
                                 "cantidadAComprar": 1
                             },
                             {
-                                "nombre": "queso fresco",
+                                "nombre": "Queso fresco",
                                 "descripcion": "desnatado batido",
                                 "marca": "hacendado",
                                 "perecedero": true,
@@ -210,7 +210,7 @@
                                 "fechaInicioOferta": null,
                                 "fechaFinOferta": null,
                                 "precioOferta": null,
-                                "comprado": 1,
+                                "comprado": 0,
                                 "unidadDeMedida": "g",
                                 "cantidadAComprar": 1
                             },
@@ -242,7 +242,7 @@
                                 "fechaInicioOferta": null,
                                 "fechaFinOferta": null,
                                 "precioOferta": null,
-                                "comprado": 1,
+                                "comprado": 0,
                                 "unidadDeMedida": "g",
                                 "cantidadAComprar": 1
                             },
@@ -258,7 +258,7 @@
                                 "fechaInicioOferta": null,
                                 "fechaFinOferta": null,
                                 "precioOferta": null,
-                                "comprado": 0,
+                                "comprado": 1,
                                 "unidadDeMedida": "g",
                                 "cantidadCompra": 1
                             }
@@ -282,7 +282,7 @@
                         "productos": [
                             {
                                 "nombre": "Maquinillas de afeitar",
-                                "descripcion": "desechables Sensor 3",
+                                "descripcion": "desechables Sensor 3, 5 ud",
                                 "marca": "gillette",
                                 "perecedero": false,
                                 "precio": 6.55,
@@ -305,7 +305,7 @@
                                 "fechaCaducidad": null,
                                 "oferta": true,
                                 "descripcionOferta": "3x2",
-                                "fechaInicioOferta":"24/10/2019",
+                                "fechaInicioOferta": "24/10/2019",
                                 "fechaFinOferta": "07/11/2019",
                                 "precioOferta": 15.90,
                                 "comprado": 3,
@@ -369,7 +369,7 @@
                                 "nombre": "Infusiones",
                                 "descripcion": "Té Slim con té matcha",
                                 "marca": "hornimans",
-                                "perecedero": false ,
+                                "perecedero": false,
                                 "precio": 2.00,
                                 "fechaCaducidad": "02/2021",
                                 "oferta": true,
@@ -390,7 +390,7 @@
                                 "fechaCaducidad": null,
                                 "oferta": true,
                                 "descripcionOferta": "3x2",
-                                "fechaInicioOferta":"24/10/2019",
+                                "fechaInicioOferta": "24/10/2019",
                                 "fechaFinOferta": "07/11/2019",
                                 "precioOferta": 5.00,
                                 "comprado": 3,
@@ -411,7 +411,7 @@
                                 "precioOferta": 5.98,
                                 "comprado": 2,
                                 "unidadDeMedida": "ud",
-                                "cantidadAComprar": 2
+                                "cantidadAComprar": 1
                             },
                             {
                                 "nombre": "panettone",
@@ -427,7 +427,7 @@
                                 "precioOferta": null,
                                 "comprado": 1,
                                 "unidadDeMedida": null,
-                                "cantidadAComprar": 1
+                                "cantidadAComprar": 0
                             },
                             {
                                 "nombre": "Bombones",
@@ -440,9 +440,9 @@
                                 "descripcionOferta": "pack + 1 gratis",
                                 "fechaInicioOferta": "24/10/2019",
                                 "fechaFinOferta": "07/11/2019",
-                                "precioOferta":10.40,
+                                "precioOferta": 10.40,
                                 "comprado": 0,
-                                "unidadDeMedida": "l",
+                                "unidadDeMedida": "g",
                                 "cantidadAComprar": 1
                             }
                         ]
@@ -452,13 +452,13 @@
                         "productos": [
                             {
                                 "nombre": "Cafe frío",
-                                "descripcion": " caffé latte",
+                                "descripcion": "caffé latte",
                                 "marca": "carrefour",
                                 "perecedero": true,
                                 "precio": 0.75,
                                 "fechaCaducidad": "30/10/2019",
                                 "oferta": true,
-                                "descripcionOferta": "-10%",
+                                "descripcionOferta": "promocion",
                                 "fechaInicioOferta": "24/10/2019",
                                 "fechaFinOferta": "29/20/2019",
                                 "precioOferta": 0.68,
@@ -475,7 +475,7 @@
                                 "fechaCaducidad": "05/11/2019",
                                 "oferta": true,
                                 "descripcionOferta": "3x2",
-                                "fechaInicioOferta":"24/10/2019",
+                                "fechaInicioOferta": "24/10/2019",
                                 "fechaFinOferta": "07/11/2019",
                                 "precioOferta": 3.62,
                                 "comprado": 3,
@@ -488,15 +488,15 @@
                                 "marca": "asturiana",
                                 "perecedero": true,
                                 "precio": 1.23,
-                                "fechaCaducidad": "31/10/2019" ,
+                                "fechaCaducidad": "31/10/2019",
                                 "oferta": null,
                                 "descripcionOferta": null,
                                 "fechaInicioOferta": null,
-                                "fechaFinOferta":  null,
+                                "fechaFinOferta": null,
                                 "precioOferta": null,
-                                "comprado": 1,
+                                "comprado": 0,
                                 "unidadDeMedida": "L",
-                                "cantidadAComprar": 0
+                                "cantidadAComprar": 1
                             },
                             {
                                 "nombre": "Natural Light",
@@ -530,18 +530,271 @@
                                 "unidadDeMedida": "L",
                                 "cantidadAComprar": 3
                             }
-                        ]
+                       ]
                     },
-            
-
-
-            
-
-
-
-
-
-
-
-
-                 
+        {
+            "Alcampo": {
+            "direccion": "Calle Cedro, 3",
+            "población": "Ciempozuelos",
+            "cp": "28350",
+            "geolocalizacion": {
+                "latitud": "40° 9′ 32",
+                "longitud": "3° 37′ 15"
+            },
+            "Secciones": [
+                {
+                    "nombreSeccion": "Perfumeria e higiene",
+                    "productos": [
+                            {
+                                "nombre": "Giorgi Perfect Fix",
+                                "descripcion": "gel fijador acabado perfecto",
+                                "marca": "giorgi",
+                                "perecedero": false,
+                                "precio": 2.26,
+                                "fechaCaducidad": null,
+                                "oferta": false,
+                                "descripcionOferta": null,
+                                "fechaInicioOferta": null,
+                                "fechaFinOferta": null,
+                                "precioOferta": null,
+                                "comprado": 1,
+                                "unidadDeMedida": "ml",
+                                "cantidadAComprar": 1
+                            },
+                            {
+                                "nombre": " Victorio&Lucchino nº2",
+                                "descripcion": "colonia para hombre con vaporizador",
+                                "marca": "Victorio&Lucchino",
+                                "perecedero": false,
+                                "precio": 9.50,
+                                "fechaCaducidad": null,
+                                "oferta": true,
+                                "descripcionOferta": "promocion",
+                                "fechaInicioOferta": "11/10/2019",
+                                "fechaFinOferta": "29/10/2019",
+                                "precioOferta": 9.50,
+                                "comprado": 1,
+                                "unidadDeMedida": "ml",
+                                "cantidadAComprar": 0
+                            },
+                            {
+                                "nombre": "Seda Dental",
+                                "descripcion": "con flúor y tricolsán, con sabor a menta",
+                                "marca": "Lacer",
+                                "perecedero": false,
+                                "precio": 4.00,
+                                "fechaCaducidad": null,
+                                "oferta": null,
+                                "descripcionOferta": null,
+                                "fechaInicioOferta": null,
+                                "fechaFinOferta": null,
+                                "precioOferta": null,
+                                "comprado": 1,
+                                "unidadDeMedida": "m",
+                                "cantidadAComprar": 1
+                            },
+                            {
+                                "nombre": "Palmolive Naturals",
+                                "descripcion": "milk&honey",
+                                "marca": "palmolive",
+                                "perecedero": false,
+                                "precio": 1.88,
+                                "fechaCaducidad": null,
+                                "oferta": true,
+                                "descripcionOferta": "promocion",
+                                "fechaInicioOferta": "11/10/2019",
+                                "fechaFinOferta": "29/10/2019",
+                                "precioOferta": 1.50,
+                                "comprado": 1,
+                                "unidadDeMedida": "ml",
+                                "cantidadAComprar": 1
+                            },
+                            {
+                                "nombre": "Cosmia Men",
+                                "descripcion": "balsamo after shave, hidratante y tonificante",
+                                "marca": "auchan",
+                                "perecedero": false,
+                                "precio": 2.99,
+                                "fechaCaducidad": null,
+                                "oferta": false,
+                                "descripcionOferta": null,
+                                "fechaInicioOferta": null,
+                                "fechaFinOferta": null,
+                                "precioOferta": null,
+                                "comprado": 0,
+                                "unidadDeMedida": "l",
+                                "cantidadAComprar": 1
+                            }
+                      ]
+            },
+            {
+                "nombreSeccion": "Desayunos y meriendas",
+                "productos": [
+                        {
+                                "nombre": "Chips Ahoy",
+                                "descripcion": "galletas con pepitas de chocolate",
+                                "marca": "Chips Ahoy",
+                                "perecedero": false,
+                                "precio": 2.33,
+                                "fechaCaducidad": "01/2020",
+                                "oferta": false,
+                                "descripcionOferta": null,
+                                "fechaInicioOferta": null,
+                                "fechaFinOferta": null,
+                                "precioOferta": null,
+                                "comprado": 1,
+                                "unidadDeMedida": "g",
+                                "cantidadAComprar": 1
+                            },
+                            {
+                                "nombre": "Cola Cao",
+                                "descripcion": "original",
+                                "marca": "cola cao",
+                                "perecedero": false,
+                                "precio": 4.74,
+                                "fechaCaducidad": null,
+                                "oferta": true,
+                                "descripcionOferta": "promocion",
+                                "fechaInicioOferta": "11/10/2019",
+                                "fechaFinOferta": "29/10/2019",
+                                "precioOferta": 4.10,
+                                "comprado": 1,
+                                "unidadDeMedida": "ud",
+                                "cantidadAComprar": 1
+                            },
+                            {
+                                "nombre": "La Bella Easo",
+                                "descripcion": "magdalenas sin conservantes ni colorantes",
+                                "marca": "la bella easo",
+                                "perecedero": true,
+                                "precio": 2.30,
+                                "fechaCaducidad": "01/2020",
+                                "oferta": true,
+                                "descripcionOferta": "promocion",
+                                "fechaInicioOferta": "11/10/2019",
+                                "fechaFinOferta": "29/10/2019",
+                                "precioOferta": 1.95,
+                                "comprado": 1, 
+                                "unidadDeMedida": "ud",
+                                "cantidadAComprar": 0
+                            },
+                            {
+                                "nombre": "Kellogg's special",
+                                "descripcion": "integral con chocolate",
+                                "marca": "kellogg's",
+                                "perecedero": true,
+                                "precio": 3.64,
+                                "fechaCaducidad": "03/06/2020",
+                                "oferta": true,
+                                "descripcionOferta": "promocion",
+                                "fechaInicioOferta": "11/10/2019",
+                                "fechaFinOferta": "29/10/2019",
+                                "precioOferta": 3.09,
+                                "comprado": 1,
+                                "unidadDeMedida": "g",
+                                "cantidadAComprar": 1
+                            },
+                            {
+                                "nombre": "Bombones Lind",
+                                "descripcion": "Lindor",
+                                "marca": "lindt",
+                                "perecedero": false,
+                                "precio": 4.76,
+                                "fechaCaducidad": "01/2022",
+                                "oferta": null,
+                                "descripcionOferta": null,
+                                "fechaInicioOferta": null,
+                                "fechaFinOferta": null,
+                                "precioOferta": null,
+                                "comprado": 0,
+                                "unidadDeMedida": "g",
+                                "cantidadAComprar": 1
+                            }
+                        ]
+                },
+                {
+                    "nombreSeccion": "Lácteos y postres",
+                                        "productos": [
+                                            {
+                                                "nombre": "Stakissimo",
+                                                "descripcion": " caffé latte",
+                                                "marca": "Nescafe",
+                                                "perecedero": true,
+                                                "precio": 1.15,
+                                                "fechaCaducidad": "28/10/2019",
+                                                "oferta": false,
+                                                "descripcionOferta": null,
+                                                "fechaInicioOferta": null,
+                                                "fechaFinOferta": null,
+                                                "precioOferta": null,
+                                                "comprado": 0,
+                                                "unidadDeMedida": "l",
+                                                "cantidadAComprar": 1
+                                            },
+                                            {
+                                                "nombre": "Yogur",
+                                                "descripcion": "sabor a limon",
+                                                "marca": "auchan",
+                                                "perecedero": true,
+                                                "precio": 0.75,
+                                                "fechaCaducidad": "05/11/2019",
+                                                "oferta": true,
+                                                "descripcionOferta": "3x2",
+                                                "fechaInicioOferta": "11/10/2019",
+                                                "fechaFinOferta": "29/10/2019",
+                                                "precioOferta": 0.55,
+                                                "comprado": 1,
+                                                "unidadDeMedida": "g",
+                                                "cantidadAComprar": 0
+                                            },
+                                            {
+                                                "nombre": "Batido",
+                                                "descripcion": "chocolate",
+                                                "marca": "asturiana",
+                                                "perecedero": true,
+                                                "precio": 1.15,
+                                                "fechaCaducidad": "01/11/2019",
+                                                "oferta": null,
+                                                "descripcionOferta": null,
+                                                "fechaInicioOferta": null,
+                                                "fechaFinOferta": null,
+                                                "precioOferta": null,
+                                                "comprado": 1,
+                                                "unidadDeMedida": "L",
+                                                "cantidadAComprar": 1
+                                            },
+                                            {
+                                                "nombre": "Queso",
+                                                "descripcion": "queso de untar",
+                                                "marca": "auchan",
+                                                "perecedero": true,
+                                                "precio": 1.10,
+                                                "fechaCaducidad": "10/11/2019",
+                                                "oferta": true,
+                                                "descripcionOferta": "promocion",
+                                                "fechaInicioOferta": "11/10/2019",
+                                                "fechaFinOferta": "29/20/2019",
+                                                "precioOferta": 0.95,
+                                                "comprado": 1,
+                                                "unidadDeMedida": "g",
+                                                "cantidadAComprar": 0
+                                            },
+                                            {
+                                                "nombre": "Leche desnatada",
+                                                "descripcion": "sin lactosa 6x1L",
+                                                "marca": "auchan",
+                                                "perecedero": true,
+                                                "precio": 3.36,
+                                                "fechaCaducidad": "03/2020",
+                                                "oferta": false,
+                                                "descripcionOferta": null,
+                                                "fechaInicioOferta": null,
+                                                "fechaFinOferta": null,
+                                                "precioOferta": null,
+                                                "comprado": 1,
+                                                "unidadDeMedida": "L",
+                                                "cantidadAComprar": 0
+                                            }
+                                        ]
+                                    },
+                                    
