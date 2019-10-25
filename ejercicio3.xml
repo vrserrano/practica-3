@@ -46,10 +46,10 @@
                                 <cantidadAComprar>1</cantidadAComprar>
                         </producto>
                         <producto>
-                                <nombre>dentífrico</producto>
-                                <descripcion>pasta acción total</producto>
-                                <marca>colgate</producto>
-                                <perecedero>false</producto>
+                                <nombre>dentífrico</nombre>
+                                <descripcion>pasta acción total</descripcion>
+                                <marca>colgate</marca>
+                                <perecedero>false</perecedero>
                                 <precio>2.40</precio>
                                 <fechaCaducidad>2020-03</fechaCaducidad>
                                 <oferta>true</oferta>
@@ -221,10 +221,10 @@
                                 <cantidadAComprar>1</cantidadAComprar>
                         </producto>
                         <producto>
-                                <nombre>Galletas</producto>
-                                <descripcion>digestive</producto>
-                                <marca>fontaneda</producto>
-                                <perecedero>true</producto>
+                                <nombre>Galletas</nombre>
+                                <descripcion>digestive</descripcion>
+                                <marca>fontaneda</marca>
+                                <perecedero>true</perecedero>
                                 <precio>2.70</precio>
                                 <fechaCaducidad>2020-01</fechaCaducidad>
                                 <oferta>null</oferta>
