@@ -363,91 +363,6 @@
 						]
 					},
 					{
-						"nombreSeccion": "Desayunos y meriendas",
-						"productos": [
-							{
-								"nombre": "Infusiones",
-								"descripcion": "Té Slim con té matcha",
-								"marca": "hornimans",
-								"perecedero": false,
-								"precio": 2.00,
-								"fechaCaducidad": "02/2021",
-								"oferta": true,
-								"descripcionOferta": "3x2",
-								"fechaInicioOferta": "24/10/2019",
-								"fechaFinOferta": "07/11/2019",
-								"precioOferta": 4.00,
-								"comprado": 3,
-								"unidadDeMedida": "ud",
-								"cantidadAComprar": 1
-							},
-							{
-								"nombre": "tortitas",
-								"descripcion": "sustitutivas",
-								"marca": "carrefour",
-								"perecedero": false,
-								"precio": 2.50,
-								"fechaCaducidad": null,
-								"oferta": true,
-								"descripcionOferta": "3x2",
-								"fechaInicioOferta": "24/10/2019",
-								"fechaFinOferta": "07/11/2019",
-								"precioOferta": 5.00,
-								"comprado": 3,
-								"unidadDeMedida": "ud",
-								"cantidadAComprar": 1
-							},
-							{
-								"nombre": "Mermelada",
-								"descripcion": "diet",
-								"marca": "hero",
-								"perecedero": false,
-								"precio": 2.99,
-								"fechaCaducidad": "01/2020",
-								"oferta": true,
-								"descripcionOferta": "2x1",
-								"fechaInicioOferta": "24/10/2019",
-								"fechaFinOferta": "07/11/2019",
-								"precioOferta": 5.98,
-								"comprado": 2,
-								"unidadDeMedida": "ud",
-								"cantidadAComprar": 1
-							},
-							{
-								"nombre": "panettone",
-								"descripcion": "clasico",
-								"marca": "carrefour",
-								"perecedero": true,
-								"precio": 1,
-								"fechaCaducidad": "12/2019",
-								"oferta": false,
-								"descripcionOferta": null,
-								"fechaInicioOferta": null,
-								"fechaFinOferta": null,
-								"precioOferta": null,
-								"comprado": 1,
-								"unidadDeMedida": null,
-								"cantidadAComprar": 0
-							},
-							{
-								"nombre": "Bombones",
-								"descripcion": "Lindor",
-								"marca": "lindt",
-								"perecedero": false,
-								"precio": 5.20,
-								"fechaCaducidad": "03/2022",
-								"oferta": true,
-								"descripcionOferta": "pack + 1 gratis",
-								"fechaInicioOferta": "24/10/2019",
-								"fechaFinOferta": "07/11/2019",
-								"precioOferta": 10.40,
-								"comprado": 0,
-								"unidadDeMedida": "g",
-								"cantidadAComprar": 1
-							}
-						]
-					},
-					{
 						"nombreSeccion": "Lácteos y postres",
 						"productos": [
 							{
@@ -529,6 +444,91 @@
 								"comprado": 3,
 								"unidadDeMedida": "L",
 								"cantidadAComprar": 3
+							}
+						]
+					},
+					{
+						"nombreSeccion": "Desayunos y meriendas",
+						"productos": [
+							{
+								"nombre": "Infusiones",
+								"descripcion": "Té Slim con té matcha",
+								"marca": "hornimans",
+								"perecedero": false,
+								"precio": 2.00,
+								"fechaCaducidad": "02/2021",
+								"oferta": true,
+								"descripcionOferta": "3x2",
+								"fechaInicioOferta": "24/10/2019",
+								"fechaFinOferta": "07/11/2019",
+								"precioOferta": 4.00,
+								"comprado": 3,
+								"unidadDeMedida": "ud",
+								"cantidadAComprar": 1
+							},
+							{
+								"nombre": "tortitas",
+								"descripcion": "sustitutivas",
+								"marca": "carrefour",
+								"perecedero": false,
+								"precio": 2.50,
+								"fechaCaducidad": null,
+								"oferta": true,
+								"descripcionOferta": "3x2",
+								"fechaInicioOferta": "24/10/2019",
+								"fechaFinOferta": "07/11/2019",
+								"precioOferta": 5.00,
+								"comprado": 3,
+								"unidadDeMedida": "ud",
+								"cantidadAComprar": 1
+							},
+							{
+								"nombre": "Mermelada",
+								"descripcion": "diet",
+								"marca": "hero",
+								"perecedero": false,
+								"precio": 2.99,
+								"fechaCaducidad": "01/2020",
+								"oferta": true,
+								"descripcionOferta": "2x1",
+								"fechaInicioOferta": "24/10/2019",
+								"fechaFinOferta": "07/11/2019",
+								"precioOferta": 5.98,
+								"comprado": 2,
+								"unidadDeMedida": "ud",
+								"cantidadAComprar": 1
+							},
+							{
+								"nombre": "panettone",
+								"descripcion": "clasico",
+								"marca": "carrefour",
+								"perecedero": true,
+								"precio": 1,
+								"fechaCaducidad": "12/2019",
+								"oferta": false,
+								"descripcionOferta": null,
+								"fechaInicioOferta": null,
+								"fechaFinOferta": null,
+								"precioOferta": null,
+								"comprado": 1,
+								"unidadDeMedida": null,
+								"cantidadAComprar": 0
+							},
+							{
+								"nombre": "Bombones",
+								"descripcion": "Lindor",
+								"marca": "lindt",
+								"perecedero": false,
+								"precio": 5.20,
+								"fechaCaducidad": "03/2022",
+								"oferta": true,
+								"descripcionOferta": "pack + 1 gratis",
+								"fechaInicioOferta": "24/10/2019",
+								"fechaFinOferta": "07/11/2019",
+								"precioOferta": 10.40,
+								"comprado": 0,
+								"unidadDeMedida": "g",
+								"cantidadAComprar": 1
 							}
 						]
 					}
@@ -631,91 +631,6 @@
 						]
 					},
 					{
-						"nombreSeccion": "Desayunos y meriendas",
-						"productos": [
-							{
-								"nombre": "Chips Ahoy",
-								"descripcion": "galletas con pepitas de chocolate",
-								"marca": "Chips Ahoy",
-								"perecedero": false,
-								"precio": 2.33,
-								"fechaCaducidad": "01/2020",
-								"oferta": false,
-								"descripcionOferta": null,
-								"fechaInicioOferta": null,
-								"fechaFinOferta": null,
-								"precioOferta": null,
-								"comprado": 1,
-								"unidadDeMedida": "g",
-								"cantidadAComprar": 1
-							},
-							{
-								"nombre": "Cola Cao",
-								"descripcion": "original",
-								"marca": "cola cao",
-								"perecedero": false,
-								"precio": 4.74,
-								"fechaCaducidad": null,
-								"oferta": true,
-								"descripcionOferta": "promocion",
-								"fechaInicioOferta": "11/10/2019",
-								"fechaFinOferta": "29/10/2019",
-								"precioOferta": 4.10,
-								"comprado": 1,
-								"unidadDeMedida": "ud",
-								"cantidadAComprar": 1
-							},
-							{
-								"nombre": "La Bella Easo",
-								"descripcion": "magdalenas sin conservantes ni colorantes",
-								"marca": "la bella easo",
-								"perecedero": true,
-								"precio": 2.30,
-								"fechaCaducidad": "01/2020",
-								"oferta": true,
-								"descripcionOferta": "promocion",
-								"fechaInicioOferta": "11/10/2019",
-								"fechaFinOferta": "29/10/2019",
-								"precioOferta": 1.95,
-								"comprado": 1,
-								"unidadDeMedida": "ud",
-								"cantidadAComprar": 0
-							},
-							{
-								"nombre": "Kellogg's special",
-								"descripcion": "integral con chocolate",
-								"marca": "kellogg's",
-								"perecedero": true,
-								"precio": 3.64,
-								"fechaCaducidad": "03/06/2020",
-								"oferta": true,
-								"descripcionOferta": "promocion",
-								"fechaInicioOferta": "11/10/2019",
-								"fechaFinOferta": "29/10/2019",
-								"precioOferta": 3.09,
-								"comprado": 1,
-								"unidadDeMedida": "g",
-								"cantidadAComprar": 1
-							},
-							{
-								"nombre": "Bombones Lind",
-								"descripcion": "Lindor",
-								"marca": "lindt",
-								"perecedero": false,
-								"precio": 4.76,
-								"fechaCaducidad": "01/2022",
-								"oferta": null,
-								"descripcionOferta": null,
-								"fechaInicioOferta": null,
-								"fechaFinOferta": null,
-								"precioOferta": null,
-								"comprado": 0,
-								"unidadDeMedida": "g",
-								"cantidadAComprar": 1
-							}
-						]
-					},
-					{
 						"nombreSeccion": "Lácteos y postres",
 						"productos": [
 							{
@@ -797,6 +712,91 @@
 								"comprado": 1,
 								"unidadDeMedida": "L",
 								"cantidadAComprar": 0
+							}
+						]
+					},
+					{
+						"nombreSeccion": "Desayunos y meriendas",
+						"productos": [
+							{
+								"nombre": "Chips Ahoy",
+								"descripcion": "galletas con pepitas de chocolate",
+								"marca": "Chips Ahoy",
+								"perecedero": false,
+								"precio": 2.33,
+								"fechaCaducidad": "01/2020",
+								"oferta": false,
+								"descripcionOferta": null,
+								"fechaInicioOferta": null,
+								"fechaFinOferta": null,
+								"precioOferta": null,
+								"comprado": 1,
+								"unidadDeMedida": "g",
+								"cantidadAComprar": 1
+							},
+							{
+								"nombre": "Cola Cao",
+								"descripcion": "original",
+								"marca": "cola cao",
+								"perecedero": false,
+								"precio": 4.74,
+								"fechaCaducidad": null,
+								"oferta": true,
+								"descripcionOferta": "promocion",
+								"fechaInicioOferta": "11/10/2019",
+								"fechaFinOferta": "29/10/2019",
+								"precioOferta": 4.10,
+								"comprado": 1,
+								"unidadDeMedida": "ud",
+								"cantidadAComprar": 1
+							},
+							{
+								"nombre": "La Bella Easo",
+								"descripcion": "magdalenas sin conservantes ni colorantes",
+								"marca": "la bella easo",
+								"perecedero": true,
+								"precio": 2.30,
+								"fechaCaducidad": "01/2020",
+								"oferta": true,
+								"descripcionOferta": "promocion",
+								"fechaInicioOferta": "11/10/2019",
+								"fechaFinOferta": "29/10/2019",
+								"precioOferta": 1.95,
+								"comprado": 1,
+								"unidadDeMedida": "ud",
+								"cantidadAComprar": 0
+							},
+							{
+								"nombre": "Kellogg's special",
+								"descripcion": "integral con chocolate",
+								"marca": "kellogg's",
+								"perecedero": true,
+								"precio": 3.64,
+								"fechaCaducidad": "03/06/2020",
+								"oferta": true,
+								"descripcionOferta": "promocion",
+								"fechaInicioOferta": "11/10/2019",
+								"fechaFinOferta": "29/10/2019",
+								"precioOferta": 3.09,
+								"comprado": 1,
+								"unidadDeMedida": "g",
+								"cantidadAComprar": 1
+							},
+							{
+								"nombre": "Bombones Lind",
+								"descripcion": "Lindor",
+								"marca": "lindt",
+								"perecedero": false,
+								"precio": 4.76,
+								"fechaCaducidad": "01/2022",
+								"oferta": null,
+								"descripcionOferta": null,
+								"fechaInicioOferta": null,
+								"fechaFinOferta": null,
+								"precioOferta": null,
+								"comprado": 0,
+								"unidadDeMedida": "g",
+								"cantidadAComprar": 1
 							}
 						]
 					}
